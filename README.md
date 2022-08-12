@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Timbó
-- 👀 I’m interested in Data Science | Machine Learning | Artificial Intelligence | Deep Learning
-- 🌱 I’m currently learning Python for Data Analysis
+- 👀 I’m interested in Data Science | Machine Learning | Artificial Intelligence
+- 🌱 I’m currently learning Python for Data Analysis and Front-End technologies
 - 💞️ I’m looking to collaborate on simple projects in Python
 - 📫 How to reach me alancorreiatimbo@gmail.com
 
