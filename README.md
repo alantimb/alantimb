@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alan Timbó
-- 👀 I’m interested in Data Science | Machine Learning | Artificial Intelligence
-- 🌱 I’m currently learning Python for Data Analysis and Front-End technologies
-- 💞️ I’m looking to collaborate on simple projects in Python
+- 👀 I'm interested in becoming a Full Stack Developer and looking for a first technology job
+- 🌱 I’m currently learning Python, HTML, CSS e JS
+- 💞️ I am looking to collaborate on projects on the above technologies at junior programmer's level to gain +XP
 - 📫 How to reach me alancorreiatimbo@gmail.com
 
 <!---
