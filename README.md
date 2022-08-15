@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Timbó
 - 👀 I'm interested in becoming a Full Stack Developer and looking for a first technology job
-- 🌱 I’m currently learning Python, HTML, CSS e JS
+- 🌱 I’m currently learning Python, HTML, CSS, JS and IT support
 - 💞️ I am looking to collaborate on projects on the above technologies at junior programmer's level to gain +XP
 - 📫 How to reach me alancorreiatimbo@gmail.com
 
