@@ -6,8 +6,11 @@
 - :busts_in_silhouette: I'm looking to collaborate on open source projects at junior programmer's level to gain +XP
 - :zap: Fun fact: I name all my cats :cat: with royalty names (Caesar, Dianna and I had a Zelda) 
 
-### Languages and Tools:
+##
 
+### :computer: Languages and Tools:
+
+<div style="display: inline_block">
 <img align="left" alt="Visual Studio Code" height="25px" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" height="25px" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" height="25px" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,8 +20,13 @@
 <img align="left" alt="Git" height="25px" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" height="25px" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" height="25px" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</div>
 
-### 📫 How to reach me:
+<br>
+
+##
+
+### :mailbox: How to reach me:
 <p>
  <a href="https://www.linkedin.com/in/alantimbo/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20" style="vertical-align:top; margin:5px"></a>
  <a href="mailto:alancorreiatimbo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" style="vertical-align:top; margin:5px"></a>
