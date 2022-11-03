@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alan Timbó
-- 👀 I'm interested in becoming a Full Stack Developer and looking for a first technology job
-- 🌱 I’m currently learning Python, HTML, CSS, JS and IT support
-- 💞️ I am looking to collaborate on projects on the above technologies at junior programmer's level to gain +XP
-- 📫 How to reach me alancorreiatimbo@gmail.com
+- 👀 I'm interested in becoming a Full Stack Developer to get my first technology job
+- 🌱 I’m currently learning Front-End technologies
+- 👯 I'm looking to collaborate on open source projects at junior programmer's level to gain +XP
+- ⚡ Fun fact: I name all my cats with royalty names (Caesar, Dianna and I had a Zelda) :cat: 
 
 <!---
 alantimb/alantimb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
