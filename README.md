@@ -9,6 +9,7 @@
 ### Languages and Tools:
 
 
+  ![Snake animation](https://github.com/alantimb/alantimb/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 alantimb/alantimb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
