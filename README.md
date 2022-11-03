@@ -18,6 +18,11 @@
 <img align="left" alt="GitHub" height="25px" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" height="25px" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+### 📫 How to reach me:
+<p>
+ <a href="https://www.linkedin.com/in/alantimbo/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20" style="vertical-align:top; margin:5px"></a>
+ <a href="mailto:alancorreiatimbo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" style="vertical-align:top; margin:5px"></a>
+</p>
 
   ![Snake animation](https://github.com/alantimb/alantimb/blob/output/github-contribution-grid-snake.svg)
 
