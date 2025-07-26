@@ -1,14 +1,15 @@
-## :wave::earth_americas: Hello World, I’m Alan Timbó
+## :wave::earth_americas: Olá Mundo, eu sou Alan Timbó
 
 
-- :eyes: I'm interested in becoming a Full Stack Developer
-- :seedling: I’m currently learning Back-End technologies
-- :busts_in_silhouette: I'm looking to collaborate on open source projects at junior programmer's level
-- :zap: Fun fact: I name all my cats :cat: with royalty names (Caesar, Dianna and I had a Zelda) 
+- :bug: Sou Engenheiro de Qualidade Jr, caçador de bugs e guardião da qualidade de software
+- :wrench: Trabalho com testes manuais e automatizados, usando SQL, Postman, SoapUI, Shell Script, Excel e Power BI
+- :books: Atualmente estou aprendendo automação em Java/Selenium e Python
+- :bar_chat: Tenho interesse em Análise e Ciência de Dados
+- :zap: Fato divertido: Eu nomeei todos os meus gatos :cat: com nomes de realezas (Caesar, Dianna e eu tive uma Zelda) 
 
 ##
 
-### :computer: Languages and Tools:
+### :computer: Linguagens e Ferramentas:
 
 <div style="display: inline_block">
 <img align="left" alt="Visual Studio Code" height="25px" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -26,7 +27,7 @@
 
 ##
 
-### :mailbox: How to reach me:
+### :mailbox: Como me encontrar:
 <p>
  <a href="https://www.linkedin.com/in/alantimbo/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20" style="vertical-align:top; margin:5px"></a>
  <a href="mailto:alancorreiatimbo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" style="vertical-align:top; margin:5px"></a>
