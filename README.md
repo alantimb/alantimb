@@ -2,7 +2,7 @@
 
 
 - :bug: Sou Engenheiro de Qualidade Jr, caçador de bugs e guardião da qualidade de software
-- :wrench: Trabalho com testes manuais e automatizados, como SQL, Postman, SoapUI, Shell Script, Excel e Power BI
+- :wrench: Trabalho com testes manuais e automatizados, utilizando SQL, Postman, SoapUI, Shell Script, Excel e Power BI
 - :books: Atualmente estou aprendendo automação em Java/Selenium e me aprofundando em ferramentas das áreas de Dados
 - 👨‍🔬 Tenho interesse em Análise e Ciência de Dados e em suas aplicações 📊
 - :zap: Fato divertido: Eu nomeei todos os meus gatos :cat: com nomes de realezas (Caesar, Dianna e eu tive uma Zelda) 
